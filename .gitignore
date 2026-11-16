@@ -1,0 +1,7 @@
+# Datos: nunca subir datos de la empresa ni predicciones
+*.csv
+*.xlsx
+data/
+__pycache__/
+.venv/
+venv/
